@@ -1,3 +1,3 @@
 x = 1+1
-x
+print (x)
 cyrusting22465197
